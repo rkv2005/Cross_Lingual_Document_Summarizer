@@ -30,7 +30,7 @@ A deep learning NLP project that summarizes documents inputted in any Indian reg
     **English Translation**
        The rapid progress of technology in the 21st century has changed almost every aspect of daily life. From the way people communicate and access information to the way they work and enjoy themselves, digital        innovation has become deeply embedded in the society. Smartphones, high speed internet and social media platforms have made it possible for individuals to connect instantly with others around the world. At        the same time, these changes have also presented new challenges, such as privacy concerns, the spread of misinformation and the digital divide between those who have access to technology and those who do          not. As technology evolves, it is important to adapt for individuals and communities, to ensure that the benefits of innovation are widely shared and the potential risks are managed responsibly.
 
-![App Screenshot](/screenshots/Screenshot_2025-04-21_193734.png)
+![App Screenshot](screenshots/Screenshot_2025-04-21_193734.png)
       
     **English Summary** 
        The rapid progress of technology in the 21st century has changed almost every aspect of daily life. Smartphones, high speed internet and social media platforms have made it possible for individuals to             connect instantly with others around the world.
