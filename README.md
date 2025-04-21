@@ -1,4 +1,4 @@
-![Cross Lingual Summarizer Banner](https://i.imgur.com/7n6YkL5.png)
+### Cross Lingual Document Summarizer
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
