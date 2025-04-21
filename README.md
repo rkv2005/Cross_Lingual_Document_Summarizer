@@ -1,8 +1,43 @@
-# Cross_Lingual_Document_Summarizer
-This is a deep learning NLP project which summarizes a document inputed in one indian regional language in another.
+![Cross Lingual Summarizer Banner](https://your-image-link.com/banner.png)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-**How To Run**
-  1. Run the download.py file and install the modules locally
-  2. Install the necessary dependancies
-  3. Run the streamlit app and choose the language for the input text
-  4. Input the target language and the code will give you the summarized output in the desired language
+Cross_Lingual_Document_Summarizer
+A deep learning NLP project that summarizes documents inputted in any Indian regional language and outputs the summary in another language of your choice.
+
+## 🚀 How To Run
+
+1. **Download models:**  
+   Run `download.py` to download and save all required models locally.
+2. **Install dependencies:**  
+   Run `pip install -r requirements.txt`
+3. **Launch the app:**  
+   Run `streamlit run app.py`
+4. **Use the app:**  
+   - Paste your text in any supported Indian language.
+   - Select source and target languages.
+   - Click "Run Pipeline" to get your summary in the desired language.
+
+## 🏗️ Architecture
+
+[Regional Language Text]
+↓
+[mBART-50 Translation]
+↓
+[English Text]
+↓
+[BART-CNN Summarization]
+↓
+[English Summary]
+↓
+[mBART-50 Translation]
+↓
+[Summary in Target Language]
+
+## 📄 License
+MIT License
+
+## 🙏 Credits
+- Raghav Kishore V(https://github.com/rkv2005)
+- [AI4Bharat](https://ai4bharat.org/)
