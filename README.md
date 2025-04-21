@@ -1,4 +1,4 @@
-### Cross Lingual Document Summarizer
+# Cross Lingual Document Summarizer
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
