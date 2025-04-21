@@ -1,4 +1,4 @@
-![Cross Lingual Summarizer Banner](https://your-image-link.com/banner.png)
+![Cross Lingual Summarizer Banner](https://i.imgur.com/7n6YkL5.png)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -18,6 +18,8 @@ A deep learning NLP project that summarizes documents inputted in any Indian reg
    - Paste your text in any supported Indian language.
    - Select source and target languages.
    - Click "Run Pipeline" to get your summary in the desired language.
+
+## ✨ Example
 
 ## 🏗️ Architecture
 
