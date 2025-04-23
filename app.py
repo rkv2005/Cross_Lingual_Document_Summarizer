@@ -9,8 +9,8 @@ from transformers import MBartForConditionalGeneration, MBart50TokenizerFast, Au
 import torch
 
 # --- Model Paths ---
-mbart_path = "models/facebook--mbart-large-50-many-to-many-mmt"
-summarizer_path = "models/bart-large-cnn"
+mbart_path = "models/mbartlarge50mmt"
+summarizer_path = "models/bartlargecnn"
 
 # --- Load Models and Tokenizers ---
 @st.cache_resource
