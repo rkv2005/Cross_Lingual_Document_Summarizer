@@ -9,8 +9,8 @@ os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
 # --- Model Paths ---
-mbart_path = "models/facebook--mbart-large-50-many-to-many-mmt"
-summarizer_path = "models/bart-large-cnn"
+mbart_path = "models/mbartlarge50mmt"
+summarizer_path = "models/bartlargecnn"
 
 # --- Load Translation Model ---
 mbart_tokenizer = MBart50TokenizerFast.from_pretrained(mbart_path, local_files_only=True)
